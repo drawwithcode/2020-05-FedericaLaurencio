@@ -1,0 +1,24 @@
+{
+  "name": "node_pj",
+  "version": "1.0.0",
+  "description": "tryhard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drawwithcode/2020-05-FedericaLaurencio.git"
+  },
+  "author": "FedericaLaurencio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drawwithcode/2020-05-FedericaLaurencio/issues"
+  },
+  "homepage": "https://github.com/drawwithcode/2020-05-FedericaLaurencio#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
